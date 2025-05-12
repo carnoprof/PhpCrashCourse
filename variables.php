@@ -26,7 +26,6 @@ echo "</br>";
 echo "Variabile inesistente: ";
 echo $pippo;
 echo "</br>";
-//anche se uso variabili che non esistono, nessuno si lamenta...
 
 echo "</br>";
 echo "</br>";
